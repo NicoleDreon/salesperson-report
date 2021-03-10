@@ -44,7 +44,7 @@ for i in range(len(salespeople)):
 # find total number of sales each person did
 # implement dictionary
 
-# refactored
+# refactored code provided by hackbright
 # """Generate sales report showing total melons each salesperson sold."""
 
 
